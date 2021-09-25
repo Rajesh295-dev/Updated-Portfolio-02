@@ -15,7 +15,7 @@ Here is quick glimpse
 
 
    
-   ![](./assets/images/how-it-look.png) 
+   ![](./assets/images/project2Looks.png) 
 
 
 ## Links :
