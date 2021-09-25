@@ -20,8 +20,8 @@ Here is quick glimpse
 
 ## Links :
 
-* Link for the deployed application [Updated-portfolio](https://rajesh295-dev.github.io/updated-portfolio/)
-* Link for the Github repository [Host by Github](https://github.com/Rajesh295-dev/updated-portfolio)
+* Link for the deployed application [Updated-portfolio-02](https://github.com/tharveyster/recipe-search/tree/Razz)
+* Link for the Github repository [Host by Heroku](https://tranquil-springs-98499.herokuapp.com)
 
 
 
